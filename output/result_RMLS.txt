@@ -1,0 +1,11 @@
+Name	FinalLen
+Game_1022.txt	2.736214
+Game_1037.txt	1000.000000
+Game_1038.txt	1000.000000
+Game_1039.txt	1000.000000
+Game_104.txt	1000.000000
+Game_1048.txt	5.210209
+Game_1049.txt	1.710829
+Game_1257.txt	3.200894
+Game_1329.txt	2.682216
+Game_1331.txt	4.114008
